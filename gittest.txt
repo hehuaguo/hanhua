@@ -9,5 +9,6 @@
       最后，祝福你们在瀚华工作更顺利，生活更愉快，家庭更美满，事业更有成！
 	  
 	  
-	  Git is a version control system.
+Git is a distributed version control system.
 Git is free software.
+
